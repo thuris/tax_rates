@@ -5,6 +5,8 @@ These countries are the ones for which Printify collects taxes on items shipped 
 
 Rates are current as of February 2023.
 
+*I am neither an tax adviser nor a lawyer. Use this information at your own risk!*
+
 ## About US rates
 This list assumes you have an economic nexus (i.e. that you are obligated to collect sales tax on online purchases for states that require it) in every US state.
 
